@@ -1,0 +1,138 @@
+{
+  "unlocked_missions": {
+    "6": "2026-06-29T08:27:44.276240Z",
+    "8": "2026-06-29T07:14:04.491262Z",
+    "16": "2026-06-29T08:28:22.188155Z",
+    "19": "2026-06-29T07:42:51.559991Z",
+    "24": "2026-06-29T08:08:07.403659Z",
+    "29": "2026-06-29T08:24:38.657187Z",
+    "34": "2026-06-29T08:25:52.576558Z",
+    "39": "2026-06-29T08:26:29.326132Z",
+    "2": "2026-06-29T08:27:44.722380Z",
+    "12": "2026-06-29T08:28:22.613879Z",
+    "26": "2026-06-29T08:28:36.299532Z",
+    "22": "2026-06-29T08:28:36.721712Z"
+  },
+  "completed_missions": [
+    {
+      "mission_id": 1,
+      "task_id": 1,
+      "unlocked_at": "2026-06-29T08:27:43.155774Z",
+      "completed_at": "2026-06-29T08:27:44.719436Z",
+      "duration_seconds": 1
+    },
+    {
+      "mission_id": 11,
+      "task_id": 3,
+      "unlocked_at": "2026-06-29T08:28:21.344122Z",
+      "completed_at": "2026-06-29T08:28:22.612135Z",
+      "duration_seconds": 1
+    },
+    {
+      "mission_id": 21,
+      "task_id": 5,
+      "unlocked_at": "2026-06-29T08:28:35.506633Z",
+      "completed_at": "2026-06-29T08:28:36.719125Z",
+      "duration_seconds": 1
+    }
+  ],
+  "tasks": {
+    "1": {
+      "title": "Build a Flask Backend MVP",
+      "description": "Create SQLite models, write Flask routers, connect to Gemini, and write tests.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:27:43.148368Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 0,
+      "deadline": "2026-06-30T12:00:00Z",
+      "risk_score": 86
+    },
+    "2": {
+      "title": "Emergency Server Deployment",
+      "description": "Fix production crash immediately.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:27:44.273289Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 0,
+      "deadline": "2026-06-23T20:00:00Z",
+      "risk_score": 100
+    },
+    "3": {
+      "title": "Build a Flask Backend MVP",
+      "description": "Create SQLite models, write Flask routers, connect to Gemini, and write tests.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:28:21.340441Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 0,
+      "deadline": "2026-06-30T12:00:00Z",
+      "risk_score": 86
+    },
+    "4": {
+      "title": "Emergency Server Deployment",
+      "description": "Fix production crash immediately.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:28:22.180384Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 0,
+      "deadline": "2026-06-23T20:00:00Z",
+      "risk_score": 100
+    },
+    "5": {
+      "title": "Build a Flask Backend MVP",
+      "description": "Create SQLite models, write Flask routers, connect to Gemini, and write tests.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:28:35.499712Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 1,
+      "deadline": "2026-06-30T12:00:00Z",
+      "risk_score": 66
+    },
+    "6": {
+      "title": "Emergency Server Deployment",
+      "description": "Fix production crash immediately.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:28:36.296033Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 0,
+      "deadline": "2026-06-23T20:00:00Z",
+      "risk_score": 100
+    },
+    "7": {
+      "title": "Build a Flask Backend MVP",
+      "description": "Create SQLite models, write Flask routers, connect to Gemini, and write tests.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:25:52.567119Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 0,
+      "deadline": "2026-06-30T12:00:00Z",
+      "risk_score": 86
+    },
+    "8": {
+      "title": "Build a Flask Backend MVP",
+      "description": "Create SQLite models, write Flask routers, connect to Gemini, and write tests.",
+      "category": "Development",
+      "status": "pending",
+      "created_at": "2026-06-29T08:26:29.315019Z",
+      "completed_at": null,
+      "total_missions": 5,
+      "completed_missions": 0,
+      "deadline": "2026-06-30T12:00:00Z",
+      "risk_score": 86
+    }
+  },
+  "profile": null
+}

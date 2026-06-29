@@ -1,0 +1,274 @@
+{
+  "1": {
+    "state_key": "1:Build a Flask Backend MVP:Create SQLite models, write Flask routers, connect to Gemini, and write tests.:88:86:0.13:pending:1:1:False:True:Design application architecture and structure codebase|2:False:False:Implement core backend models, endpoints, and database connection|3:False:False:Build frontend pages, responsive layout, and API service connection|4:False:False:Execute end-to-end integration and run validation tests|5:False:False:Deploy MVP, apply styling upgrades, and final bug fixing",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 88 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 86 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Build a Flask Backend MVP",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Design application architecture and structure codebase",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  },
+  "2": {
+    "state_key": "2:Emergency Server Deployment:Fix production crash immediately.:100:100:0.0:pending:-6:6:False:True:Plan strategy and define outline for Emergency Server Deployment|7:False:False:Gather required assets, references, and toolsets|8:False:False:Implement first core step and review outcome details|9:False:False:Refine secondary components and integrate all workflows|10:False:False:Do final pass verification and mark the objective complete",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 100 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 100 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Emergency Server Deployment",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Plan strategy and define outline for Emergency Server Deployment",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  },
+  "3": {
+    "state_key": "3:Build a Flask Backend MVP:Create SQLite models, write Flask routers, connect to Gemini, and write tests.:88:86:0.13:pending:1:11:False:True:Design application architecture and structure codebase|12:False:False:Implement core backend models, endpoints, and database connection|13:False:False:Build frontend pages, responsive layout, and API service connection|14:False:False:Execute end-to-end integration and run validation tests|15:False:False:Deploy MVP, apply styling upgrades, and final bug fixing",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 88 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 86 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Build a Flask Backend MVP",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Design application architecture and structure codebase",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  },
+  "4": {
+    "state_key": "4:Emergency Server Deployment:Fix production crash immediately.:100:100:0.0:pending:-6:16:False:True:Plan strategy and define outline for Emergency Server Deployment|17:False:False:Gather required assets, references, and toolsets|18:False:False:Implement first core step and review outcome details|19:False:False:Refine secondary components and integrate all workflows|20:False:False:Do final pass verification and mark the objective complete",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 100 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 100 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Emergency Server Deployment",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Plan strategy and define outline for Emergency Server Deployment",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  },
+  "5": {
+    "state_key": "5:Build a Flask Backend MVP:Create SQLite models, write Flask routers, connect to Gemini, and write tests.:72:66:0.33:pending:1:21:True:True:Design application architecture and structure codebase|22:False:True:Implement core backend models, endpoints, and database connection|23:False:False:Build frontend pages, responsive layout, and API service connection|24:False:False:Execute end-to-end integration and run validation tests|25:False:False:Deploy MVP, apply styling upgrades, and final bug fixing",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 72 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 66 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Build a Flask Backend MVP",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Implement core backend models, endpoints, and database connection",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  },
+  "6": {
+    "state_key": "6:Emergency Server Deployment:Fix production crash immediately.:100:100:0.0:pending:-6:26:False:True:Plan strategy and define outline for Emergency Server Deployment|27:False:False:Gather required assets, references, and toolsets|28:False:False:Implement first core step and review outcome details|29:False:False:Refine secondary components and integrate all workflows|30:False:False:Do final pass verification and mark the objective complete",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 100 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 100 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Emergency Server Deployment",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Plan strategy and define outline for Emergency Server Deployment",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  },
+  "7": {
+    "state_key": "7:Build a Flask Backend MVP:Create SQLite models, write Flask routers, connect to Gemini, and write tests.:88:86:0.13:pending:1:34:False:True:Design application architecture and structure codebase|35:False:False:Implement core backend models, endpoints, and database connection|36:False:False:Build frontend pages, responsive layout, and API service connection|37:False:False:Execute end-to-end integration and run validation tests|38:False:False:Deploy MVP, apply styling upgrades, and final bug fixing",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 88 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 86 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Build a Flask Backend MVP",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Design application architecture and structure codebase",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  },
+  "8": {
+    "state_key": "8:Build a Flask Backend MVP:Create SQLite models, write Flask routers, connect to Gemini, and write tests.:88:86:0.13:pending:1:39:False:True:Design application architecture and structure codebase|40:False:False:Implement core backend models, endpoints, and database connection|41:False:False:Build frontend pages, responsive layout, and API service connection|42:False:False:Execute end-to-end integration and run validation tests|43:False:False:Deploy MVP, apply styling upgrades, and final bug fixing",
+    "explanation": {
+      "why_this_priority": [
+        "Priority score of 88 is aligned with your active deadline constraints and remaining milestones.",
+        "Steady progress is recommended to maintain execution momentum."
+      ],
+      "current_risks": [
+        "An assessment score of 86 highlights minor execution risks.",
+        "Ensure that critical dependencies are completed first."
+      ],
+      "recommended_focus": [
+        "I recommend focusing on the current active milestone.",
+        "Ensure downstream scope items remain locked to prevent multitasking."
+      ],
+      "tasks_to_delay": [
+        "Postpone cosmetic adjustments until core systems are functional.",
+        "Delay secondary code updates to optimize velocity."
+      ]
+    },
+    "daily_brief": {
+      "headline": "Atlas Briefing: Build a Flask Backend MVP",
+      "summary": "Consistent execution of active milestones is recommended to secure the deadline.",
+      "today_focus": "Complete the active mission.",
+      "warning": "Deadline risk has increased. I recommend shifting your focus to the active mission.",
+      "motivation": "Your plan is set. Proceed with calm and steady focus."
+    },
+    "todays_mission": {
+      "title": "Design application architecture and structure codebase",
+      "reason": "Based on your current progress, completing this mission today provides the greatest impact.",
+      "estimated_time": "60 minutes",
+      "benefit": "Unlocks the next chronological stage of the quest."
+    }
+  }
+}
